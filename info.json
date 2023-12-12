@@ -1,0 +1,10 @@
+{
+    "name": "battery",
+    "description": "Show battery percentage",
+    "website": "",
+    "install": "",
+    "version": "0.0.1",
+    "require": [
+        "micro >= 2.0.0"
+    ]
+}
