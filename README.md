@@ -1,2 +1,2 @@
 # micro-battery
-Displays battery percentage on micro
+Displays battery percentage on micro on the infobar.
